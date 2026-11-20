@@ -34,6 +34,16 @@ The source code of each environment, including the launcher files. The ZIPs are 
 |---|---|---|
 | 4.5.3 | [r_dist_r453_jp](https://github.com/keiimai/r_dist_r453_jp) | [r_dist_r453_en](https://github.com/keiimai/r_dist_r453_en) |
 
+## 環境を持たない枠組み / Framework without an environment
+
+研究プロジェクトを起こすための、ディレクトリの構成・ライセンス・記録の雛形と、再現性の記録層だけを持つテンプレートです。Docker も実行環境も含まず、R の版にもよりません。環境はご自身で用意し、各リポジトリの `README.md` に従ってください。
+
+A template with only the directory structure, the license, record templates and the reproducibility recording layer, for starting research projects. It contains neither Docker nor a runtime environment, and does not depend on the R version. Prepare the environment yourself, and follow `README.md` in each repository.
+
+| 日本語版 / Japanese | 英語版 / English |
+|---|---|
+| [r_skeleton_jp](https://github.com/keiimai/r_skeleton_jp) | [r_skeleton_en](https://github.com/keiimai/r_skeleton_en) |
+
 ## AI の使用 / Use of AI
 
 デモ動画は、AI を道具として使って作りました。台本・字幕・画面の撮影と編集は Anthropic の [Claude Opus 5.5](https://www.anthropic.com/claude/opus)（[Claude Code](https://code.claude.com/docs/en/overview) で使用）、ナレーションの音声は Google の [Gemini](https://ai.google.dev/gemini-api/docs/speech-generation)（`gemini-3.8-flash-tts`）で作り、ナレーションと場面の時刻合わせと音声の確認には `gemini-3.5-flash` を使いました。画面は、実際にこの環境を操作して撮ったものです。
