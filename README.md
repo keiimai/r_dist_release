@@ -22,7 +22,7 @@ Download the ZIP for your R version and language from this repository’s Releas
 
 | R | 日本語版 / Japanese | 英語版 / English |
 |---|---|---|
-| 4.5.3 | [r453-v0.1.0](https://github.com/keiimai/r_dist_release/releases/tag/r453-v0.1.0)（`R_jp_r453_*.zip`） | [r453-v0.1.0](https://github.com/keiimai/r_dist_release/releases/tag/r453-v0.1.0)（`R_en_r453_*.zip`） |
+| 4.5.3 | [r453-v0.1.1](https://github.com/keiimai/r_dist_release/releases/tag/r453-v0.1.1)（`R_jp_r453_*.zip`） | [r453-v0.1.1](https://github.com/keiimai/r_dist_release/releases/tag/r453-v0.1.1)（`R_en_r453_*.zip`） |
 
 ## ソースコード / Source code
 
